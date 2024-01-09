@@ -12,6 +12,6 @@ Computer fan to HEPA filter connector parts
 
 # 150mm filter
 
-Full lists of parts for 150mm filters can be found here [https://rosmo-robot.github.io/fans/](https://rosmo-robot.github.io/fans/])
+Full lists of parts for 150mm filters can be found here [https://rosmo-robot.github.io/fans/](https://rosmo-robot.github.io/fans/)
 
 Derived from Customizable circular mobile HEPA room air filter by [ritterbusch](https://www.thingiverse.com/thing:4860712)
