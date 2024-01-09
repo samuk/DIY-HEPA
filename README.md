@@ -1,7 +1,7 @@
 # DIY-HEPA
 Computer fan to HEPA filter connector parts
 
-![img](https://raw.githubusercontent.com/samuk/DIY-HEPA/main/pictures/hepa.png)
+![img](https://raw.githubusercontent.com/samuk/DIY-HEPA/main/pictures/50mmFan-60mmFilter.png)
 
 
 # 60mm filter
