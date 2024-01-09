@@ -7,6 +7,7 @@ Computer fan to HEPA filter connector parts
 - [60mm x 85mm Filter](https://www.amazon.ca/PUREBURG-Replacement-Compatible-Enrichment-PEPERSFIL/dp/B09ZTPW2RG)
 - [1S battery holder](https://www.aliexpress.com/item/1005005302630986.html)
 - [18650 battery](https://s.click.aliexpress.com/e/_DdfBurF)
+- [90 USB (Type 1)](https://s.click.aliexpress.com/e/_DF3bJop)
 - [50x10 fan](https://s.click.aliexpress.com/e/_DcuT5D7)
 
 # 150mm filter
