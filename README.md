@@ -8,7 +8,7 @@ Fan to HEPA filter connector parts
 - [60mm x 85mm Filter](https://www.amazon.ca/PUREBURG-Replacement-Compatible-Enrichment-PEPERSFIL/dp/B09ZTPW2RG)
 - [9v battery](https://s.click.aliexpress.com/e/_DltS6aD)
 - [Mini brushless fan](https://s.click.aliexpress.com/e/_DnrYcG5)
-- [9v to barrel connector](https://aliexpress.com/item/1005004660018087.htm)
+- [9v to barrel connector](https://s.click.aliexpress.com/e/_Dk15hwV)
 - [Barrel to screw terminal](https://de.aliexpress.com/item/1005004281570915.html)
 - [40mm fan guard](https://s.click.aliexpress.com/e/_DEc7xq5)
 - [2.5mm bungee cord](https://www.aliexpress.com/item/1005003969896128.html)
