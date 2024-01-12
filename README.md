@@ -28,4 +28,8 @@ Fan to HEPA filter connector parts
 
 Full lists of parts for 150mm filters can be found here [https://rosmo-robot.github.io/fans/](https://rosmo-robot.github.io/fans/)
 
+# Larger filters
+[50x32](https://www.amazon.co.uk/PUREBURG-Replacement-Activated-Compatible-Purifiers/dp/B08CRDQ18H/)
+[four 120mm set](https://s.click.aliexpress.com/e/_DCY5dMD)
+
 Derived from Customizable circular mobile HEPA room air filter by [ritterbusch](https://www.thingiverse.com/thing:4860712)
