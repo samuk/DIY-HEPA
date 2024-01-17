@@ -1,5 +1,5 @@
 # DIY-HEPA
-Fan to HEPA filter connector parts
+Fan to HEPA filter connector parts. File can also be found in a [website](https://t.co/HbiBO5FhPI) if you don't want to download OpenSCAD
 
 # 60mm filter 33mm BLDC fan
 
