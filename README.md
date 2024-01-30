@@ -5,13 +5,13 @@ Fan to HEPA filter connector parts. File can also be found in a [website](https:
 
 ![img](https://raw.githubusercontent.com/samuk/DIY-HEPA/main/pictures/60mmfilter33mmBLDC.png)
 
-- [2 pc 60mm x 85mm Filter](https://www.amazon.ca/PUREBURG-Replacement-Compatible-Enrichment-PEPERSFIL/dp/B09ZTPW2RG)
-- [9v battery](https://s.click.aliexpress.com/e/_DltS6aD)
-- [Mini brushless fan](https://s.click.aliexpress.com/e/_DnrYcG5)
-- [9v to barrel connector](https://s.click.aliexpress.com/e/_Dk15hwV)
-- [Barrel to screw terminal](https://de.aliexpress.com/item/1005004281570915.html)
-- [40mm fan guard](https://s.click.aliexpress.com/e/_DEc7xq5)
-- [2.5mm bungee cord](https://www.aliexpress.com/item/1005003969896128.html)
+- [~$10 2 pc 60mm x 85mm Filter](https://www.amazon.ca/PUREBURG-Replacement-Compatible-Enrichment-PEPERSFIL/dp/B09ZTPW2RG)
+- [~$8 9v battery](https://s.click.aliexpress.com/e/_DltS6aD)
+- [~$20 Mini Brushless fan](https://s.click.aliexpress.com/e/_De0ZDWd)[Mini brushless fan (noisy)](https://s.click.aliexpress.com/e/_DnrYcG5)
+- [~$3 9v to barrel connector](https://s.click.aliexpress.com/e/_Dk15hwV)
+- [~$3 Barrel to screw terminal](https://de.aliexpress.com/item/1005004281570915.html)
+- [~$5 40mm fan guard](https://s.click.aliexpress.com/e/_DEc7xq5)
+- [~$3 2.5mm bungee cord](https://www.aliexpress.com/item/1005003969896128.html)
 
 Optional battery upgrade
 
